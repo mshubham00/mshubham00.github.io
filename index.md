@@ -5,9 +5,9 @@ Currently, I am in Rennes, France as an [EDUC](https://educalliance.eu/) student
 
 ## Scientific Experiences
 
-2020 (12 months): Guest student at [Albert Einstein Institute, Potsdam](https://www.aei.mpg.de/) in the Quantum Gravity division. Rather the intraction in between gravity and electromagnetic radiation, geometry of 3+1 dimensional spacetime being the central focus of study within the ADS/CFT correspondence framework.   
+2020 (12 months): Guest student at [Albert Einstein Institute, Potsdam](https://www.aei.mpg.de/) in the Quantum Gravity division. Intraction in between gravity and electromagnetic radiation in 3+1 dimensional spacetime being the central focus of study within the [ADS/CFT correspondence] framework.   
 
-2018 (6 months): As a research assistant (experimentalist), I have worked with the Astrophonic group of [innoFSPEC AIP](https://www.aip.de/en/research/innofspec/) to the calibrate the optoelectronic chips which are used for generating frequency comb by the aid of micro ring-resonanators.  
+2018 (6 months): As a research assistant (experimentalist), worked with the Astrophonic group of [innoFSPEC AIP](https://www.aip.de/en/research/innofspec/) to the calibrate the optoelectronic chips which are used for generating frequency comb by the aid of micro ring-resonanators.  
 
 ## Extra Curricular
 
