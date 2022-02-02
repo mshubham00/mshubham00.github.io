@@ -1,32 +1,12 @@
-## Happy to welcome you in my online space. 
+![This is an image](https://drive.google.com/file/d/1-YL6jgjzV1qy5rP0nMIVYVcItxxvwQe1/view?usp=sharing)
+## Shubham Mamgain
 
-You can use the [editor on GitHub](https://github.com/mshubham00/mshubham00.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Currently, I am in Rennes (France) as an [EDUC](https://educalliance.eu/) student at [University of Rennes 1](https://www.univ-rennes1.fr/), studying Finacial Technology (master). My major study is Astrophysics (master) at [University of Potsdam](https://www.uni-potsdam.de/de/) with thesis topic on "Distances and Reddening calibration of Galactic Cepheids using Gaia EDR3".  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Extra Curricular
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
