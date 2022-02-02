@@ -1,15 +1,21 @@
 !(https://mshubham00.github.io/Shubham_Mamgain.jpg )
-## Shubham Mamgain
+## Status quo
 
 Currently, I am in Rennes (France) as an [EDUC](https://educalliance.eu/) student at [University of Rennes 1](https://www.univ-rennes1.fr/), studying Finacial Technology (master). My major study is Astrophysics (master) at [University of Potsdam](https://www.uni-potsdam.de/de/). 
 
-##Scientific Experiences
+## Scientific Experiences
+
 2018 (6 months): As a research assistant (experimentalist), I have worked with the Astrophonic group of [innoFSPEC AIP](https://www.aip.de/en/research/innofspec/) to the calibrate the optoelectronic chips which are used for generating frequency comb by the aid of micro ring-resonanators.  
 
 2020 (12 months): Guest student at [Albert Einstein Institute, Potsdam](https://www.aei.mpg.de/) in the Quantum Gravity division to study the intraction in between gravity and electromagnetic radiation. 
 
 ## Extra Curricular
+
+2015 (18 months): Manager for Irrigation Water Suppy as per farmer's need in a village of North India. 
+
 Since 2019: Elected as a student representative to convey the interest of international student in the student parliament of University of Potsdam. I am also founding member of and serving as a borad member of Tree.UP university group, which is mainly focused on sustainable development of surrounding of village Golm including the area of Potsdam Science Park. 
 
 2021 (2 weeks online, 1 week offline): As a response to climate change, actively partipated in EDUC program - Social Work and Social Ecology at [University of Pecs](https://international.pte.hu/) where 30 students from 6 EDUC alliance universities worked together with local people for developing community garden at the heart of the city Pecs.
+
+2021 (December): Participated in 2-days event, Enterprenuership Days, at [Paris Nanterre University](https://www.parisnanterre.fr/). As a team leader of the project STEM Presentor, I presented a business model of providing assistance to educators of 21st century, so they could deliver lectures/classes by using 3D visuals and animations. 
 
