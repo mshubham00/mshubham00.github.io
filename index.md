@@ -1,7 +1,7 @@
 [My Picture](https://mshubham00.github.io/Shubham_Mamgain.jpg )
 ## Status quo
 
-Currently, I am in Rennes, France as an [EDUC](https://educalliance.eu/) student at [University of Rennes 1](https://www.univ-rennes1.fr/), studying Finacial Technology (master). My major study is Astrophysics (master) at [University of Potsdam](https://www.uni-potsdam.de/de/). 
+Currently, I am in Rennes, France as an [EDUC](https://educalliance.eu/) student at [University of Rennes 1](https://www.univ-rennes1.fr/), studying Data Science (master). My major study is Astrophysics (master) at [University of Potsdam](https://www.uni-potsdam.de/de/). 
 
 ## Scientific Experiences
 
