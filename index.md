@@ -1,7 +1,7 @@
 [My Picture](https://mshubham00.github.io/Shubham_Mamgain.jpg )
 ## Status quo
 
-Currently, I am in Rennes, France as an [EDUC](https://educalliance.eu/) student at [University of Rennes 1](https://www.univ-rennes1.fr/), studying Data Science (master). My major study is Astrophysics (master) at [University of Potsdam](https://www.uni-potsdam.de/de/). 
+Currently, I am in Potsdam, Germany pursuing master Astrophysics at [University of Potsdam](https://www.uni-potsdam.de/de/). 
 
 ## Scientific Experiences
 
@@ -11,20 +11,22 @@ Currently, I am in Rennes, France as an [EDUC](https://educalliance.eu/) student
 
 ## Extra Curricular
 
+2022 (Jan-Apr): As an [EDUC](https://educalliance.eu/) student at [University of Rennes 1](https://www.univ-rennes1.fr/), I studied Data Science (master) for a semester with subjects of Machine Learning, Web Semantics and Database Security. 
+
 2021 (December): Participated in 2-days event, Enterprenuership Days, at [Paris Nanterre University](https://www.parisnanterre.fr/). As a team leader of the project STEM Presentor, I presented a business model of providing assistance to educators of 21st century, so they could deliver lectures/classes by using 3D visuals and animations. 
 
-2021 (2 weeks online, 1 week offline): As a response to climate change, actively partipated in EDUC program - Social Work and Social Ecology at [University of Pecs](https://international.pte.hu/) where 30 students from 6 EDUC alliance universities worked together with local people for developing community garden at the heart of the city Pecs.
+2021 (July - August): As a response to climate change, partipated in EDUC program - Social Work and Social Ecology at [University of Pecs](https://international.pte.hu/) where 30 students from 6 EDUC alliance universities worked together with local people for developing community garden at the heart of the city Pecs.
 
 2020: Intiated and serving as a borad member of Tree.UP university group, at the University of Potsdam, which is mainly focused on the sustainable development of surrounding of village Golm including the area of [Potsdam Science Park](https://potsdam-sciencepark.de/en/). 
 
 2019 onwards: Elected as a student representative to convey the interest of international student in the student parliament of University of Potsdam. 
 
-2017: Drop out the master Physics and moved to Potsdam, Germany for pursuing Astrophysics. 
+2017: Finished second semester of master Physics in India and moved to Potsdam for pursuing master Astrophysics. 
 
-2015 (18 months): Manager for Irrigation Water Suppy as per farmer's need in a village of North India. 
+2014-2016: School teacher for Mathematics and Arts & Crafting
 
+2013-2016: Bachelors in Mathematics, Physics and Statistics
 
 <p align = "center">
 <iframe width="880" height="495" src="https://www.youtube.com/embed/ghXkHZ-ZZ9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <\p>
-
