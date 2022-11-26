@@ -1,7 +1,8 @@
 [My Picture](https://mshubham00.github.io/Shubham_Mamgain.jpg )
 ## Status quo
 
-Currently, I am in Potsdam, Germany pursuing master Astrophysics at [University of Potsdam](https://www.uni-potsdam.de/de/). 
+Currently, I am pursuing master Astrophysics at [University of Potsdam](https://www.uni-potsdam.de/de/) and writing my master thesis on the research topic - 'Reddenings, Distances and Luminosities of a new sample of Galactic Cepheids for probing the Milky Way and calibrating the Extragalactic Distance Scale'
+
 
 ## Scientific Experiences
 
