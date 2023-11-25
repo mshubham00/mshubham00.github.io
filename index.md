@@ -27,7 +27,3 @@ Currently, I am pursuing master Astrophysics at [University of Potsdam](https://
 2014-2016: School teacher for Mathematics and Arts & Crafting
 
 2013-2016: Bachelors in Mathematics, Physics and Statistics
-
-<p align = "center">
-<iframe width="880" height="495" src="https://www.youtube.com/embed/ghXkHZ-ZZ9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<\p>
