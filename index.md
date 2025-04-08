@@ -8,7 +8,8 @@ header:
   image: /assets/images/Andromeda_Galaxy_560mm_FL.jpg
   caption: "Photo credit: Wikipedia"
 ---
-# Galactic Neighbours
+
+**Galactic Neighbours**
 
 Galaxies containing billions of stars, wandering in different directions of the sky. Residing in Milky Way, we can not see our home galaxy - Milky Way, but other ones for sure! Like our neighboring galaxy Andromeda, M31. Isn't it look beautiful? 
 
@@ -16,5 +17,6 @@ Andromeda is double in the size and age of Milky Way. There exist even bigger an
 
 My master research work aims to rebuild such a tool which can measure reliable distances to distant galaxies. The tool I am working with is century old, with new technology, high standard data from space based telescope, helps to gain more accuracy in distance measurement. The tool is called Leavitt Law and it is a mathematical equation comes from the stars. Such stars which pulsate radially and changes brightness periodically. Nearly all young galaxies have such pulsating stars - called as Cepheid variables. 
 
-# Research Work
+**Research Work**
+
 I determined the systematic errors in Leavitt Law using multiband photometry data and pre-determined distances from Gaia satellite - for Cepheids residing in the Milky Way. With the calibrated Galactic Leavitt Law, I can compare Leavitt Law of other galaxies and the difference in zeropoint will yield the distances of respective galaxy. This ultimately helps me to locate galaxies in the space, and make me aware of where am I. 
