@@ -4,6 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+header:
+  image: /assets/images/Andromeda_Galaxy_560mm_FL.jpg
+  caption: "Photo credit: "
 ---
 
 Hi
